@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Sanity test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2.746">
+  <properties />
+  
+  
+            <testcase name="verifyUserShouldNavigateToRegisterPageSuccessfully" time="0.375" classname="com.nopcommerce.demo.testsuite.RegisterPageTest" />
+                <testcase name="VerifyThatUserShouldCreateAccountSuccessfully" time="2.371" classname="com.nopcommerce.demo.testsuite.RegisterPageTest" />
+      
+</testsuite>

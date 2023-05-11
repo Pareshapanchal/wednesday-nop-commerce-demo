@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Sanity test"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="5.519">
+  <properties />
+  
+  
+            <testcase name="VerifyThatUserShouldLogOutSuccessFully" time="1.604" classname="com.nopcommerce.demo.testsuite.LoginTest" />
+                <testcase name="verifyTheErrorMessageWithInValidCredentials" time="1.236" classname="com.nopcommerce.demo.testsuite.LoginTest" />
+                <testcase name="verifyUserShouldNavigateToLoginPageSuccessfully" time="0.372" classname="com.nopcommerce.demo.testsuite.LoginTest" />
+                <testcase name="verifyThatUserShouldLogInSuccessFullyWithValidCredentials" time="2.307" classname="com.nopcommerce.demo.testsuite.LoginTest" />
+      
+</testsuite>
